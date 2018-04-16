@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kamp4hmiModel:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Kamp4hmiModel="http://sdq.ipd.kit.edu/Kamp4hmiModel" startingStep="//@hmiElement.0">
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" Name="PressStartButton"/>
+  <hmiElement xsi:type="Kamp4hmiModel:SystemStep"/>
+  <modes Name="Initializing"/>
+</Kamp4hmiModel:Repository>

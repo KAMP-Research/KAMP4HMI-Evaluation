@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kamp4hmiModel:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Kamp4hmiModel="http://sdq.ipd.kit.edu/Kamp4hmiModel" startingStep="//@hmiElement.0">
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" Name="PressStartButton" successor="//@hmiElement.1"/>
+  <hmiElement xsi:type="Kamp4hmiModel:SystemStep" Name="Initializing" successor="//@hmiElement.2" mode="//@modes.0"/>
+  <hmiElement xsi:type="Kamp4hmiModel:If" Name="Initializing Successfull?" trueSuccessor="//@hmiElement.3" falseSuccessor="//@hmiElement.0"/>
+  <hmiElement xsi:type="Kamp4hmiModel:SystemStep" Name="Running" successor="//@hmiElement.4"/>
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" Name="PressStopButton"/>
+  <hmiElement xsi:type="Kamp4hmiModel:SystemStep" Name="Stopping" mode="//@modes.2"/>
+  <modes Name="Initializing"/>
+  <modes Name="Running"/>
+  <modes Name="Stopping"/>
+</Kamp4hmiModel:Repository>
