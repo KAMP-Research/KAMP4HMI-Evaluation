@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kamp4hmiModel:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:IECReporitory="http://sdq.ipd.kit.edu/IECRepository" xmlns:Kamp4hmiModel="http://sdq.ipd.kit.edu/Kamp4hmiModel">
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" id="ActorStep__VhlwgEcAEeiMmobUxfuECg" Name=" ActorStep__VhlwgEcAEeiMmobUxfuECg" successor="//@hmiElement.1"/>
+  <hmiElement xsi:type="Kamp4hmiModel:SystemStep" id="SystemStep__Wx0pUUcAEeiMmobUxfuECg" Name=" SystemStep__Wx0pUUcAEeiMmobUxfuECg" successor="//@hmiElement.2" mode="//@modes.0"/>
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" id="ActorStep__XMucoEcAEeiMmobUxfuECg" Name=" ActorStep__XMucoEcAEeiMmobUxfuECg"/>
+  <modes Name="Running">
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.0"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.1"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.4"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.5"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.6"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.7"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.8"/>
+  </modes>
+</Kamp4hmiModel:Repository>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TU_München_Beispielprojekt/modified/My1.modificationmarks&apos; to &apos;My.modificationmarks&apos;" description="Rename resource &apos;My1.modificationmarks&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="modified/My1.modificationmarks" name="My.modificationmarks" stamp="1524742434995" updateReferences="true"/>
+</session>

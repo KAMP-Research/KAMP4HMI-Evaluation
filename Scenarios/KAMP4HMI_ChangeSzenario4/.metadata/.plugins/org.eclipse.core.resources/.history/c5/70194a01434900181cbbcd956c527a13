@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ASCII"?>
+<HMIModificationmarks:HMIModificationMarksRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HMIModificationmarks="http://sdq.ipd.kit.edu/HMIModificationmarks" xmlns:IECReporitory="http://sdq.ipd.kit.edu/IECRepository" xmlns:Kamp4hmiModel="http://sdq.ipd.kit.edu/Kamp4hmiModel" xmlns:modificationmarks="http://sdq.ipd.kit.edu/Modificationmarks/1.0">
+  <seedModifications xsi:type="HMIModificationmarks:HMISeedModifications"/>
+  <changePropagationSteps xsi:type="modificationmarks:ChangePropagationStep"/>
+  <changePropagationSteps xsi:type="HMIModificationmarks:HMIChangePropagationDueToSoftwareDependency">
+    <actorStepModification toolderived="true">
+      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.5"/>
+      <causingElements xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
+    </actorStepModification>
+    <systemStepModification toolderived="true">
+      <affectedElement xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
+      <causingElements xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.7/@HasMethod.3"/>
+    </systemStepModification>
+  </changePropagationSteps>
+  <changePropagationSteps xsi:type="HMIModificationmarks:HMIChangePropagationDueToSoftwareDependency">
+    <actorStepModification toolderived="true">
+      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.5"/>
+      <causingElements xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
+    </actorStepModification>
+    <systemStepModification toolderived="true">
+      <affectedElement xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
+      <causingElements xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.7/@HasMethod.3"/>
+    </systemStepModification>
+  </changePropagationSteps>
+  <changePropagationSteps xsi:type="HMIModificationmarks:HMIChangePropagationDueToSoftwareDependency">
+    <actorStepModification toolderived="true">
+      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.5"/>
+      <causingElements xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
+    </actorStepModification>
+    <systemStepModification toolderived="true">
+      <affectedElement xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
+      <causingElements xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.7/@HasMethod.3"/>
+    </systemStepModification>
+  </changePropagationSteps>
+</HMIModificationmarks:HMIModificationMarksRepository>

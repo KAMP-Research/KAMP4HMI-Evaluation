@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fieldofactivityannotations:FieldOfActivityAnnotationRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fieldofactivityannotations="http://sdq.ipd.kit.edu/KAPSFieldofactivityannotations/0.1">
+  <calibrationSpecification role="//@staffSpecification/@roleList/@roles.0">
+    <calibrationConfig name="Calibration">
+      <components href="My.xppu#_YV_EWXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_vJRnKXaQEeetzKAOZG245w"/>
+      <components href="My.xppu#_y_b12XaPEeetzKAOZG245w"/>
+      <components href="My.xppu#_hYFIKXaQEeetzKAOZG245w"/>
+      <components href="My.xppu#_dvcHKXaIEeetzKAOZG245w"/>
+      <components href="My.xppu#_QXWRqXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_9pYhOXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_yuAkWXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_-eKe2XXSEeetzKAOZG245w"/>
+      <components href="My.xppu#_SCYsaXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_UH-f6XXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_yPXZKXXyEeetzKAOZG245w"/>
+      <components href="My.xppu#_YdxAKXXuEeetzKAOZG245w"/>
+      <components href="My.xppu#_IHLySXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_7dAwSXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_oYKK2XXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_OIq-KXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_P1vj-XX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_GFMhqXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_TjUTqXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_VDnoyXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_LV7JuXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_M05pKXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_6kjmeXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_b5ul-XXIEeetzKAOZG245w"/>
+      <components href="My.xppu#_Ro6KuXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_TmYkCXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_lNbIqXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_FmJjeXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_u5FyKXX4EeetzKAOZG245w"/>
+      <components href="My.xppu#_1PPmu3X5EeetzKAOZG245w"/>
+      <components href="My.xppu#_BPM5iXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_PIpC2XX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_8q44qXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_uUUnSXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_Pu7myXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_9LZkuXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_wf1cmXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_lkSRqXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_oADwiXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_peuG6XXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_Q60LGXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_-Ew1qXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_0JiHKXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_gW11OXXuEeetzKAOZG245w"/>
+      <components href="My.xppu#_OL-mSXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_8OcNOXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_st40-XXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_2AHG6XXyEeetzKAOZG245w"/>
+      <components href="My.xppu#_fcOYWXX0EeetzKAOZG245w"/>
+      <components href="My.xppu#_FLUJyXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_DQc_mXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_jLIhyXXuEeetzKAOZG245w"/>
+      <modules href="My.xppu#_tXlK0HXyEeetzKAOZG245w"/>
+      <modules href="My.xppu#_x11i0HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_zNIF4HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_gnCBwHX4EeetzKAOZG245w"/>
+      <modules href="My.xppu#_qOaWQHX5EeetzKAOZG245w"/>
+      <modules href="My.xppu#_O-XiwHXIEeetzKAOZG245w"/>
+      <modules href="My.xppu#_f2oyUHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_ubzr8HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_wM7EQHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_1sBKMHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_3pb5IHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_72EmMnX4EeetzKAOZG245w"/>
+      <modules href="My.xppu#_00gLMHX5EeetzKAOZG245w"/>
+      <modules href="My.xppu#_x_O5IHX3EeetzKAOZG245w"/>
+      <modules href="My.xppu#_4MVU0nX3EeetzKAOZG245w"/>
+      <modules href="My.xppu#_Rv3E4HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_U0M_oHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_8Q45YHdbEeecMou8C8bxpw"/>
+      <interfaces href="My.xppu#_TrsB8HXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_SaxzsHXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_QSR2IHXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_RkGOEHX4EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_n361cHX4EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_xcHUEHXuEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_rlVG4HXuEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JpNKMHXvEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JYW8gHXIEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_4mbJMHXvEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_FRH9YHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_Hw7nsHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_WFtxYHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#__btpMHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_ECUA4HX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JPVfYHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_LspPUHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_32XscHXHEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_gGVhwHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_jZ7ZcHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_klwTYHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_U5JF0HXNEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_V-4YIHXIEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_seT1sHaQEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_6u2_oHaPEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_duekMHaQEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_8v2YUHXREeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_BYQSYHXIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_HwarEHaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_cjkfEHXGEeetzKAOZG245w"/>
+      <structures href="My.xppu#_9sWTQHXFEeetzKAOZG245w"/>
+      <structures href="My.xppu#_mItfcnaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_ldRVwnaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_lIxscnaIEeetzKAOZG245w"/>
+    </calibrationConfig>
+  </calibrationSpecification>
+  <testSpecification role="//@staffSpecification/@roleList/@roles.2">
+    <systemTests testName="DummyTest">
+      <systemUnderTest href="My.xppu#_7_yDwHXFEeetzKAOZG245w"/>
+    </systemTests>
+  </testSpecification>
+  <stockSpecification role="//@staffSpecification/@roleList/@roles.1">
+    <componentStockList filename="ComponentStock">
+      <components href="My.xppu#_YV_EWXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_vJRnKXaQEeetzKAOZG245w"/>
+      <components href="My.xppu#_y_b12XaPEeetzKAOZG245w"/>
+      <components href="My.xppu#_hYFIKXaQEeetzKAOZG245w"/>
+      <components href="My.xppu#_dvcHKXaIEeetzKAOZG245w"/>
+      <components href="My.xppu#_QXWRqXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_9pYhOXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_yuAkWXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_-eKe2XXSEeetzKAOZG245w"/>
+      <components href="My.xppu#_SCYsaXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_UH-f6XXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_yPXZKXXyEeetzKAOZG245w"/>
+      <components href="My.xppu#_YdxAKXXuEeetzKAOZG245w"/>
+      <components href="My.xppu#_IHLySXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_7dAwSXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_oYKK2XXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_OIq-KXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_P1vj-XX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_GFMhqXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_TjUTqXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_VDnoyXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_LV7JuXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_M05pKXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_6kjmeXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_b5ul-XXIEeetzKAOZG245w"/>
+      <components href="My.xppu#_Ro6KuXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_TmYkCXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_lNbIqXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_FmJjeXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_u5FyKXX4EeetzKAOZG245w"/>
+      <components href="My.xppu#_1PPmu3X5EeetzKAOZG245w"/>
+      <components href="My.xppu#_BPM5iXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_PIpC2XX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_8q44qXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_uUUnSXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_Pu7myXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_9LZkuXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_wf1cmXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_lkSRqXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_oADwiXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_peuG6XXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_Q60LGXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_-Ew1qXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_0JiHKXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_gW11OXXuEeetzKAOZG245w"/>
+      <components href="My.xppu#_OL-mSXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_8OcNOXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_st40-XXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_2AHG6XXyEeetzKAOZG245w"/>
+      <components href="My.xppu#_fcOYWXX0EeetzKAOZG245w"/>
+      <components href="My.xppu#_FLUJyXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_DQc_mXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_jLIhyXXuEeetzKAOZG245w"/>
+    </componentStockList>
+    <interfaceStockList filename="InterfaceStock">
+      <interfaces href="My.xppu#_TrsB8HXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_SaxzsHXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_QSR2IHXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_RkGOEHX4EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_n361cHX4EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_xcHUEHXuEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_rlVG4HXuEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JpNKMHXvEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JYW8gHXIEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_4mbJMHXvEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_FRH9YHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_Hw7nsHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_WFtxYHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#__btpMHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_ECUA4HX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JPVfYHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_LspPUHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_32XscHXHEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_gGVhwHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_jZ7ZcHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_klwTYHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_U5JF0HXNEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_V-4YIHXIEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_seT1sHaQEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_6u2_oHaPEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_duekMHaQEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_8v2YUHXREeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_BYQSYHXIEeetzKAOZG245w"/>
+    </interfaceStockList>
+    <moduleStockList filename="ModuleStock">
+      <modules href="My.xppu#_tXlK0HXyEeetzKAOZG245w"/>
+      <modules href="My.xppu#_x11i0HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_zNIF4HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_gnCBwHX4EeetzKAOZG245w"/>
+      <modules href="My.xppu#_qOaWQHX5EeetzKAOZG245w"/>
+      <modules href="My.xppu#_O-XiwHXIEeetzKAOZG245w"/>
+      <modules href="My.xppu#_f2oyUHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_ubzr8HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_wM7EQHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_1sBKMHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_3pb5IHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_72EmMnX4EeetzKAOZG245w"/>
+      <modules href="My.xppu#_00gLMHX5EeetzKAOZG245w"/>
+      <modules href="My.xppu#_x_O5IHX3EeetzKAOZG245w"/>
+      <modules href="My.xppu#_4MVU0nX3EeetzKAOZG245w"/>
+      <modules href="My.xppu#_Rv3E4HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_U0M_oHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_8Q45YHdbEeecMou8C8bxpw"/>
+    </moduleStockList>
+    <structureStockList filename="StructureStock">
+      <structures href="My.xppu#_HwarEHaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_cjkfEHXGEeetzKAOZG245w"/>
+      <structures href="My.xppu#_9sWTQHXFEeetzKAOZG245w"/>
+      <structures href="My.xppu#_mItfcnaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_ldRVwnaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_lIxscnaIEeetzKAOZG245w"/>
+    </structureStockList>
+  </stockSpecification>
+  <hmiSpecification role="//@staffSpecification/@roleList/@roles.0">
+    <hmiConfig name="HMIConfig">
+      <components href="My.xppu#_YV_EWXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_vJRnKXaQEeetzKAOZG245w"/>
+      <components href="My.xppu#_y_b12XaPEeetzKAOZG245w"/>
+      <components href="My.xppu#_hYFIKXaQEeetzKAOZG245w"/>
+      <components href="My.xppu#_dvcHKXaIEeetzKAOZG245w"/>
+      <components href="My.xppu#_QXWRqXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_9pYhOXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_yuAkWXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_-eKe2XXSEeetzKAOZG245w"/>
+      <components href="My.xppu#_SCYsaXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_UH-f6XXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_yPXZKXXyEeetzKAOZG245w"/>
+      <components href="My.xppu#_YdxAKXXuEeetzKAOZG245w"/>
+      <components href="My.xppu#_IHLySXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_7dAwSXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_oYKK2XXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_OIq-KXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_P1vj-XX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_GFMhqXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_TjUTqXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_VDnoyXXTEeetzKAOZG245w"/>
+      <components href="My.xppu#_LV7JuXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_M05pKXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_6kjmeXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_b5ul-XXIEeetzKAOZG245w"/>
+      <components href="My.xppu#_Ro6KuXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_TmYkCXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_lNbIqXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_FmJjeXX6EeetzKAOZG245w"/>
+      <components href="My.xppu#_u5FyKXX4EeetzKAOZG245w"/>
+      <components href="My.xppu#_1PPmu3X5EeetzKAOZG245w"/>
+      <components href="My.xppu#_BPM5iXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_PIpC2XX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_8q44qXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_uUUnSXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_Pu7myXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_9LZkuXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_wf1cmXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_lkSRqXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_oADwiXXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_peuG6XXGEeetzKAOZG245w"/>
+      <components href="My.xppu#_Q60LGXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_-Ew1qXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_0JiHKXXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_gW11OXXuEeetzKAOZG245w"/>
+      <components href="My.xppu#_OL-mSXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_8OcNOXX5EeetzKAOZG245w"/>
+      <components href="My.xppu#_st40-XXvEeetzKAOZG245w"/>
+      <components href="My.xppu#_2AHG6XXyEeetzKAOZG245w"/>
+      <components href="My.xppu#_fcOYWXX0EeetzKAOZG245w"/>
+      <components href="My.xppu#_FLUJyXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_DQc_mXXHEeetzKAOZG245w"/>
+      <components href="My.xppu#_jLIhyXXuEeetzKAOZG245w"/>
+      <modules href="My.xppu#_tXlK0HXyEeetzKAOZG245w"/>
+      <modules href="My.xppu#_x11i0HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_zNIF4HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_M4eCsHXHEeetzKAOZG245w"/>
+      <modules href="My.xppu#_JQwVIHXHEeetzKAOZG245w"/>
+      <modules href="My.xppu#_LjyuwHXHEeetzKAOZG245w"/>
+      <modules href="My.xppu#_gnCBwHX4EeetzKAOZG245w"/>
+      <modules href="My.xppu#_qOaWQHX5EeetzKAOZG245w"/>
+      <modules href="My.xppu#_O-XiwHXIEeetzKAOZG245w"/>
+      <modules href="My.xppu#_f2oyUHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_ubzr8HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_wM7EQHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_1sBKMHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_3pb5IHXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_72EmMnX4EeetzKAOZG245w"/>
+      <modules href="My.xppu#_00gLMHX5EeetzKAOZG245w"/>
+      <modules href="My.xppu#_x_O5IHX3EeetzKAOZG245w"/>
+      <modules href="My.xppu#_4MVU0nX3EeetzKAOZG245w"/>
+      <modules href="My.xppu#_Rv3E4HXGEeetzKAOZG245w"/>
+      <modules href="My.xppu#_U0M_oHXGEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_TrsB8HXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_SaxzsHXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_QSR2IHXSEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_RkGOEHX4EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_n361cHX4EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_xcHUEHXuEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_rlVG4HXuEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JpNKMHXvEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JYW8gHXIEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_4mbJMHXvEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_FRH9YHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_Hw7nsHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_WFtxYHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#__btpMHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_ECUA4HX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_JPVfYHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_LspPUHX0EeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_32XscHXHEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_gGVhwHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_jZ7ZcHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_klwTYHXzEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_U5JF0HXNEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_V-4YIHXIEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_seT1sHaQEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_6u2_oHaPEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_duekMHaQEeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_8v2YUHXREeetzKAOZG245w"/>
+      <interfaces href="My.xppu#_BYQSYHXIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_HwarEHaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_cjkfEHXGEeetzKAOZG245w"/>
+      <structures href="My.xppu#_9sWTQHXFEeetzKAOZG245w"/>
+      <structures href="My.xppu#_mItfcnaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_ldRVwnaIEeetzKAOZG245w"/>
+      <structures href="My.xppu#_lIxscnaIEeetzKAOZG245w"/>
+    </hmiConfig>
+  </hmiSpecification>
+  <ecadSpecification role="//@staffSpecification/@roleList/@roles.0">
+    <drawings xsi:type="fieldofactivityannotations:ComponentDrawing" filename="Table Drawing">
+      <drawn_component href="My.xppu#_DQc_mXXHEeetzKAOZG245w"/>
+    </drawings>
+    <drawings xsi:type="fieldofactivityannotations:ModuleDrawing" filename="Motor Module Drawing">
+      <drawn_module href="My.xppu#_f2oyUHXGEeetzKAOZG245w"/>
+    </drawings>
+    <drawings xsi:type="fieldofactivityannotations:InterfaceDrawing" filename="ScrewingDrawing">
+      <drawn_interface href="My.xppu#_JPVfYHX0EeetzKAOZG245w"/>
+    </drawings>
+    <drawings xsi:type="fieldofactivityannotations:StructureDrawing" filename="CraneDrawing">
+      <drawn_structure href="My.xppu#_9sWTQHXFEeetzKAOZG245w"/>
+    </drawings>
+  </ecadSpecification>
+  <documentationSpecification role="//@staffSpecification/@roleList/@roles.0">
+    <componentDocumentation>
+      <mainteneance filename="Table Maint."/>
+      <instructions filename="Instr. Arm"/>
+      <documentedComponent href="My.xppu#_DQc_mXXHEeetzKAOZG245w"/>
+    </componentDocumentation>
+  </documentationSpecification>
+  <staffSpecification>
+    <personList>
+      <persons roles="//@staffSpecification/@roleList/@roles.0" name="Bruce Wayne"/>
+      <persons roles="//@staffSpecification/@roleList/@roles.2" name="Clark Kent"/>
+      <persons roles="//@staffSpecification/@roleList/@roles.1" name="Bary Allen"/>
+    </personList>
+    <roleList>
+      <roles xsi:type="fieldofactivityannotations:Engineer" person="//@staffSpecification/@personList/@persons.0" description="Engineer"/>
+      <roles xsi:type="fieldofactivityannotations:Purchaser" person="//@staffSpecification/@personList/@persons.2" description="Purchaser"/>
+      <roles xsi:type="fieldofactivityannotations:Mechanic" person="//@staffSpecification/@personList/@persons.1" description="Mechanic"/>
+    </roleList>
+  </staffSpecification>
+</fieldofactivityannotations:FieldOfActivityAnnotationRepository>

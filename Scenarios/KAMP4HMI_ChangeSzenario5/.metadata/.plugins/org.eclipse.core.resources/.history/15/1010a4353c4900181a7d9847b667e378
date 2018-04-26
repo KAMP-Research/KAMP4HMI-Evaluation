@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kamp4hmiModel:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:IECReporitory="http://sdq.ipd.kit.edu/IECRepository" xmlns:Kamp4hmiModel="http://sdq.ipd.kit.edu/Kamp4hmiModel">
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" id="ActorStep__VhlwgEcAEeiMmobUxfuECg" Name="PressStartButton ActorStep__VhlwgEcAEeiMmobUxfuECg" successor="//@hmiElement.1"/>
+  <hmiElement xsi:type="Kamp4hmiModel:SystemStep" id="SystemStep__Wx0pUUcAEeiMmobUxfuECg" Name="Initializing SystemStep__Wx0pUUcAEeiMmobUxfuECg" successor="//@hmiElement.2" mode="//@modes.1"/>
+  <hmiElement xsi:type="Kamp4hmiModel:SystemStep" id="SystemStep__RBIFkUk7EeiECrvHAhinjA" Name="Running SystemStep__RBIFkUk7EeiECrvHAhinjA" successor="//@hmiElement.3" mode="//@modes.0"/>
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" id="ActorStep__ZFGjEEk7EeiECrvHAhinjA" Name="PressStopButton ActorStep__ZFGjEEk7EeiECrvHAhinjA"/>
+  <modes Name="Running">
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.0/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.1/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.5/@HasMethod.0"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.11/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.6/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.2/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.3/@HasMethod.3"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.7/@HasMethod.3"/>
+  </modes>
+  <modes Name="Initializing">
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.0/@HasMethod.5"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.1/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.1/@HasMethod.5"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.1/@HasMethod.6"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.1/@HasMethod.7"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.11/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.11/@HasMethod.5"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.6/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.6/@HasMethod.5"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.2/@HasMethod.7"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.2/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.3/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.3/@HasMethod.9"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.7/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.7/@HasMethod.5"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.5"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.1/@HasMethod.7"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.1/@HasMethod.9"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.9/@HasMethod.7"/>
+    <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.2"/>
+    <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.0/@HasMethod.2"/>
+  </modes>
+</Kamp4hmiModel:Repository>
