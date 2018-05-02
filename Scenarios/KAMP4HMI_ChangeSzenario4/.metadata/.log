@@ -4062,22 +4062,22 @@ java.lang.NullPointerException
 	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$5(SetupUIPlugin.java:416)
 	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:253)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
-!SESSION 2018-04-26 12:24:56.687 -----------------------------------------------
+!SESSION 2018-05-02 13:24:42.516 -----------------------------------------------
 eclipse.buildId=4.7.1.M20171009-0410
 java.version=1.8.0_151
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
 Framework arguments:  -product org.eclipse.platform.ide
-Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario4 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration4/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario3 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration3/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
 
-!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 12:25:08.596
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-02 13:24:50.080
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\Jannis'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-04-26 12:25:09.181
+!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-05-02 13:24:50.663
 !MESSAGE java.lang.NullPointerException
 !STACK 0
 java.lang.NullPointerException
@@ -4085,7 +4085,7 @@ java.lang.NullPointerException
 	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$5(SetupUIPlugin.java:416)
 	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:253)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
-!SESSION 2018-04-26 12:41:16.861 -----------------------------------------------
+!SESSION 2018-05-02 13:31:59.401 -----------------------------------------------
 eclipse.buildId=4.7.1.M20171009-0410
 java.version=1.8.0_151
 java.vendor=Oracle Corporation
@@ -4093,184 +4093,14 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
 Framework arguments:  -product org.eclipse.platform.ide
 Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario4 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration4/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
 
-!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 12:41:24.593
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-02 13:32:06.870
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\Jannis'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-04-26 12:41:25.709
-!MESSAGE java.lang.NullPointerException
-!STACK 0
-java.lang.NullPointerException
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:445)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$5(SetupUIPlugin.java:416)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:253)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
-!SESSION 2018-04-26 12:42:13.902 -----------------------------------------------
-eclipse.buildId=4.7.1.M20171009-0410
-java.version=1.8.0_151
-java.vendor=Oracle Corporation
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
-Framework arguments:  -product org.eclipse.platform.ide
-Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario4 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration4/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
-
-!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 12:42:22.698
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Jannis'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-
-!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-04-26 12:42:26.352
-!MESSAGE java.lang.NullPointerException
-!STACK 0
-java.lang.NullPointerException
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:445)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$5(SetupUIPlugin.java:416)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:253)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
-!SESSION 2018-04-26 13:12:02.232 -----------------------------------------------
-eclipse.buildId=4.7.1.M20171009-0410
-java.version=1.8.0_151
-java.vendor=Oracle Corporation
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
-Framework arguments:  -product org.eclipse.platform.ide
-Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario4 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration4/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
-
-!ENTRY org.eclipse.core.resources 2 10035 2018-04-26 13:12:04.088
-!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
-
-!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 13:12:10.304
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Jannis'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-
-!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-04-26 13:12:11.018
-!MESSAGE java.lang.NullPointerException
-!STACK 0
-java.lang.NullPointerException
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:445)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$5(SetupUIPlugin.java:416)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:253)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
-!SESSION 2018-04-26 13:14:25.134 -----------------------------------------------
-eclipse.buildId=4.7.1.M20171009-0410
-java.version=1.8.0_151
-java.vendor=Oracle Corporation
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
-Framework arguments:  -product org.eclipse.platform.ide
-Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario4 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration4/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
-
-!ENTRY org.eclipse.core.resources 2 10035 2018-04-26 13:14:27.116
-!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
-
-!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 13:14:33.561
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Jannis'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-
-!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-04-26 13:14:34.174
-!MESSAGE java.lang.NullPointerException
-!STACK 0
-java.lang.NullPointerException
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:445)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$5(SetupUIPlugin.java:416)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:253)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
-!SESSION 2018-04-26 13:20:00.863 -----------------------------------------------
-eclipse.buildId=4.7.1.M20171009-0410
-java.version=1.8.0_151
-java.vendor=Oracle Corporation
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
-Framework arguments:  -product org.eclipse.platform.ide
-Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario4 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration4/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
-
-!ENTRY org.eclipse.core.resources 2 10035 2018-04-26 13:20:02.839
-!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
-
-!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 13:20:09.440
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Jannis'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-
-!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-04-26 13:20:10.089
-!MESSAGE java.lang.NullPointerException
-!STACK 0
-java.lang.NullPointerException
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:445)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$5(SetupUIPlugin.java:416)
-	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:253)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
-
-!ENTRY org.eclipse.ui 4 0 2018-04-26 13:20:12.958
-!MESSAGE Unhandled event loop exception
-!STACK 0
-java.lang.ClassCastException: edu.kit.ipd.sdq.kamp4hmi.model.Kamp4hmiModel.impl.ActorStepImpl cannot be cast to edu.kit.ipd.sdq.kamp4hmi.model.Kamp4hmiModel.If
-	at edu.kit.ipd.sdq.kamp4iec.core.IECArchitectureModelLookup.lookUpActorStepsOfActorStep(IECArchitectureModelLookup.java:1038)
-	at edu.kit.ipd.sdq.kamp4iec.core.IECChangePropagationAnalysis.calculateAndMarkActorStepToActorStepPropagation(IECChangePropagationAnalysis.java:2051)
-	at edu.kit.ipd.sdq.kamp4iec.core.IECChangePropagationAnalysis.continueHMIPropagation(IECChangePropagationAnalysis.java:2096)
-	at edu.kit.ipd.sdq.kamp4iec.core.IECChangePropagationAnalysis.calculateAndMarkSystemStepToActorStepPropagation(IECChangePropagationAnalysis.java:2037)
-	at edu.kit.ipd.sdq.kamp4iec.core.IECChangePropagationAnalysis.calculateChangePropagationDueToDataDependencies(IECChangePropagationAnalysis.java:325)
-	at edu.kit.ipd.sdq.kamp4iec.core.IECChangePropagationAnalysis.runChangePropagationAnalysis(IECChangePropagationAnalysis.java:93)
-	at edu.kit.ipd.sdq.kamp4iec.core.IECChangePropagationAnalysis.runChangePropagationAnalysis(IECChangePropagationAnalysis.java:1)
-	at edu.kit.ipd.sdq.kamp.model.modificationmarks.editor.AbstractChangePropagationAction.run(AbstractChangePropagationAction.java:71)
-	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:247)
-	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
-	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
-	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
-	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
-	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
-	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
-	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
-	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
-!SESSION 2018-04-26 13:26:23.357 -----------------------------------------------
-eclipse.buildId=4.7.1.M20171009-0410
-java.version=1.8.0_151
-java.vendor=Oracle Corporation
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
-Framework arguments:  -product org.eclipse.platform.ide
-Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\Jannis\Documents\workspace\KAMP4HMI-Evaluation\Scenarios\KAMP4HMI_ChangeSzenario4 -dev file:C:/Users/Jannis/Documents/workspace/KAMP4HMI/.metadata/.plugins/org.eclipse.pde.core/New_configuration4/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
-
-!ENTRY org.eclipse.core.resources 2 10035 2018-04-26 13:26:25.134
-!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
-
-!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 13:26:31.012
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Jannis'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-
-!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-04-26 13:26:31.582
+!ENTRY org.eclipse.oomph.setup.ui 2 0 2018-05-02 13:32:07.469
 !MESSAGE java.lang.NullPointerException
 !STACK 0
 java.lang.NullPointerException

@@ -31,33 +31,4 @@
       <causingElements xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.0"/>
     </systemStepModification>
   </changePropagationSteps>
-  <changePropagationSteps xsi:type="HMIModificationmarks:HMIChangePropagationDueToSoftwareDependency">
-    <actorStepModification toolderived="true">
-      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.5"/>
-      <causingElements xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
-    </actorStepModification>
-    <actorStepModification toolderived="true">
-      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.7"/>
-      <causingElements xsi:type="Kamp4hmiModel:If" href="My.kamp4hmimodel#//@hmiElement.6"/>
-    </actorStepModification>
-    <actorStepModification toolderived="true">
-      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.8"/>
-      <causingElements xsi:type="Kamp4hmiModel:If" href="My.kamp4hmimodel#//@hmiElement.6"/>
-    </actorStepModification>
-    <actorStepModification toolderived="true">
-      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.0"/>
-      <causingElements xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.8"/>
-    </actorStepModification>
-    <actorStepModification toolderived="true">
-      <affectedElement xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.1"/>
-      <causingElements xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.0"/>
-    </actorStepModification>
-    <systemStepModification toolderived="true">
-      <affectedElement xsi:type="Kamp4hmiModel:SystemStep" href="My.kamp4hmimodel#//@hmiElement.3"/>
-      <causingElements xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.3/@HasMethod.3"/>
-      <causingElements xsi:type="Kamp4hmiModel:If" href="My.kamp4hmimodel#//@hmiElement.6"/>
-      <causingElements xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.8"/>
-      <causingElements xsi:type="Kamp4hmiModel:ActorStep" href="My.kamp4hmimodel#//@hmiElement.0"/>
-    </systemStepModification>
-  </changePropagationSteps>
 </HMIModificationmarks:HMIModificationMarksRepository>
