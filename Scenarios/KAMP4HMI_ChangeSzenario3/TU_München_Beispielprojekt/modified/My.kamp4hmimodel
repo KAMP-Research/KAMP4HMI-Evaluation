@@ -12,7 +12,7 @@
     <Condition name="ProcessedWorkPieces" condition="ProcessedWP >= OrderedWP"/>
   </hmiElement>
   <hmiElement xsi:type="Kamp4hmiModel:ActorStep" id="ActorStep__kl2M8Ek8EeiK7oxIGiVOfw" Name="WorkDone ActorStep__kl2M8Ek8EeiK7oxIGiVOfw"/>
-  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" id="ActorStep__mQkpYEk8EeiK7oxIGiVOfw" Name="OrderWorkPieces ActorStep__mQkpYEk8EeiK7oxIGiVOfw" successor="//@hmiElement.0"/>
+  <hmiElement xsi:type="Kamp4hmiModel:ActorStep" id="ActorStep__mQkpYEk8EeiK7oxIGiVOfw" Name="OrderWorkPieces ActorStep__mQkpYEk8EeiK7oxIGiVOfw"/>
   <modes Name="Running">
     <affectedMethods xsi:type="IECReporitory:IECAbstractMethod" href="My.iecrepository#//@ContainsInterface.0/@HasMethod.3"/>
     <affectedMethods xsi:type="IECReporitory:IECMethod" href="My.iecrepository#//@ContainsFunctionBlock.0/@HasMethod.3"/>

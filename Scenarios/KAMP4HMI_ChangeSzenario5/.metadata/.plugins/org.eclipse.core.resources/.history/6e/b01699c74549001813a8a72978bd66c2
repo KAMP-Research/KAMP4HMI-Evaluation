@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<KAMP4aPSModificationmarks:KAMP4aPSModificationRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:InterfaceRepository="edu.kit.ipd.sdq.kaps.xppu.interfacerepository" xmlns:KAMP4aPSModificationmarks="http://sdq.ipd.kit.edu/KAMP4aPSModificationmarks/1.0">
-  <seedModifications xsi:type="KAMP4aPSModificationmarks:KAMP4aPSSeedModifications">
-    <interfaceModifications>
-      <affectedElement xsi:type="InterfaceRepository:Interface" href="My.aps#_duekMHaQEeetzKAOZG245w"/>
-    </interfaceModifications>
-  </seedModifications>
-</KAMP4aPSModificationmarks:KAMP4aPSModificationRepository>

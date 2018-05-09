@@ -114,7 +114,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_36nwmEhbEei9mYv_1mdwRw" elementId="org.eclipse.ui.editorss" selectedElement="_36nwmUhbEei9mYv_1mdwRw">
-      <children xsi:type="basic:PartStack" xmi:id="_36nwmUhbEei9mYv_1mdwRw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_36nw6khbEei9mYv_1mdwRw">
+      <children xsi:type="basic:PartStack" xmi:id="_36nwmUhbEei9mYv_1mdwRw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_gH8ksEiAEeiV6tqhWXKNxw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -275,8 +275,6 @@
           <tags>Editor</tags>
           <tags>edu.kit.ipd.sdq.kamp4hmi.model.HMIModificationmarks.presentation.HMIModificationmarksEditorID</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
           <menus xsi:type="menu:PopupMenu" xmi:id="_36nw60hbEei9mYv_1mdwRw" elementId="edu.kit.ipd.sdq.kamp4hmi.model.HMIModificationmarks.presentation.HMIModificationmarksEditorID">
             <tags>menuContribution:popup</tags>
             <tags>popup:edu.kit.ipd.sdq.kamp4hmi.model.HMIModificationmarks.presentation.HMIModificationmarksEditorID</tags>
@@ -409,6 +407,8 @@
           <tags>Editor</tags>
           <tags>edu.kit.ipd.sdq.kamp4hmi.model.Kamp4hmiModel.presentation.Kamp4hmiModelEditorID</tags>
           <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -525,7 +525,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_36oWyEhbEei9mYv_1mdwRw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_a6JRkE37EeiJeMGUmal0lQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_36spS0hbEei9mYv_1mdwRw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pO-PoFK9EeiSgIa1RyFYfQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_36spS0hbEei9mYv_1mdwRw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_36oW1UhbEei9mYv_1mdwRw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -549,7 +549,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_36oXGkhbEei9mYv_1mdwRw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_a6Lt0E37EeiJeMGUmal0lQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_36so5khbEei9mYv_1mdwRw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pPAr4FK9EeiSgIa1RyFYfQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_36so5khbEei9mYv_1mdwRw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_36oXOEhbEei9mYv_1mdwRw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
